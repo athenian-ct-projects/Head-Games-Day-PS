@@ -1,9 +1,7 @@
-# Assignment Description
+# Head Games Day PS '23
 
-written by 
+written by PS '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-PS)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-PS)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is a football simulation
